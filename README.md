@@ -1,6 +1,6 @@
-# rpi-kt0803k
+# rpi-kt0803l
 
-Configure the KT0803 and KT0803K FM radios over i2c on the Raspberry Pi.
+Configure the KT0803L FM radios over i2c on the Raspberry Pi.
 
 ## Build and Install
 
@@ -13,10 +13,10 @@ Then run make:
     make
     sudo make install
 
-You should now be able to run the `rpi-kt0803k` command.
+You should now be able to run the `rpi-kt0803l` command.
 
 ## Usage
 
 See the internal help page for usage information:
 
-    rpi-kt0803k --help
+    rpi-kt0803l --help
